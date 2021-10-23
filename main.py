@@ -3,6 +3,8 @@ import random
 import math
 from pygame import mixer
 
+# space invader game using pygame
+
 # initialize pygame
 pygame.init()
 
